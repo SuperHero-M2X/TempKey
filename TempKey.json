@@ -7,10 +7,10 @@
     "allowOffline": true
   },
   {
-    "id": "cd",
+    "id": "c9c7a02108c8f030",
     "username": "user",
     "password": "1234",
     "expiresAt": "2024-11-30",
-    "allowOffline": true
+    "allowOffline": false
   }
 ]
